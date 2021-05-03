@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/booksearchtool/static/css/main.38d48a8f.chunk.css",
-    "main.js": "/booksearchtool/static/js/main.aec1b470.chunk.js",
-    "main.js.map": "/booksearchtool/static/js/main.aec1b470.chunk.js.map",
-    "runtime-main.js": "/booksearchtool/static/js/runtime-main.8365e137.js",
-    "runtime-main.js.map": "/booksearchtool/static/js/runtime-main.8365e137.js.map",
-    "static/js/2.fd87a820.chunk.js": "/booksearchtool/static/js/2.fd87a820.chunk.js",
-    "static/js/2.fd87a820.chunk.js.map": "/booksearchtool/static/js/2.fd87a820.chunk.js.map",
-    "static/js/3.3153b3c4.chunk.js": "/booksearchtool/static/js/3.3153b3c4.chunk.js",
-    "static/js/3.3153b3c4.chunk.js.map": "/booksearchtool/static/js/3.3153b3c4.chunk.js.map",
+    "main.css": "/booksearchtool/static/css/main.16ab281f.chunk.css",
+    "main.js": "/booksearchtool/static/js/main.f4c7275b.chunk.js",
+    "main.js.map": "/booksearchtool/static/js/main.f4c7275b.chunk.js.map",
+    "runtime-main.js": "/booksearchtool/static/js/runtime-main.f664e7e8.js",
+    "runtime-main.js.map": "/booksearchtool/static/js/runtime-main.f664e7e8.js.map",
+    "static/css/2.f122e87b.chunk.css": "/booksearchtool/static/css/2.f122e87b.chunk.css",
+    "static/js/2.77533fa7.chunk.js": "/booksearchtool/static/js/2.77533fa7.chunk.js",
+    "static/js/2.77533fa7.chunk.js.map": "/booksearchtool/static/js/2.77533fa7.chunk.js.map",
+    "static/js/3.a9063563.chunk.js": "/booksearchtool/static/js/3.a9063563.chunk.js",
+    "static/js/3.a9063563.chunk.js.map": "/booksearchtool/static/js/3.a9063563.chunk.js.map",
     "index.html": "/booksearchtool/index.html",
-    "static/css/main.38d48a8f.chunk.css.map": "/booksearchtool/static/css/main.38d48a8f.chunk.css.map",
-    "static/js/2.fd87a820.chunk.js.LICENSE.txt": "/booksearchtool/static/js/2.fd87a820.chunk.js.LICENSE.txt"
+    "static/css/2.f122e87b.chunk.css.map": "/booksearchtool/static/css/2.f122e87b.chunk.css.map",
+    "static/css/main.16ab281f.chunk.css.map": "/booksearchtool/static/css/main.16ab281f.chunk.css.map",
+    "static/js/2.77533fa7.chunk.js.LICENSE.txt": "/booksearchtool/static/js/2.77533fa7.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/booksearchtool/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8365e137.js",
-    "static/js/2.fd87a820.chunk.js",
-    "static/css/main.38d48a8f.chunk.css",
-    "static/js/main.aec1b470.chunk.js"
+    "static/js/runtime-main.f664e7e8.js",
+    "static/css/2.f122e87b.chunk.css",
+    "static/js/2.77533fa7.chunk.js",
+    "static/css/main.16ab281f.chunk.css",
+    "static/js/main.f4c7275b.chunk.js"
   ]
 }
