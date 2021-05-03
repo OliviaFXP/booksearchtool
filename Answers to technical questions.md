@@ -1,8 +1,8 @@
 # Answers to technical questions
 
-1. How long did you spend on the coding assignment? </br>I spent one day on coding the assignment.
+1. How long did you spend on the coding assignment? </br>I spent one day and a half on coding the assignment.
     * What would you add to your solution if you had more time?\
-      I would add loading spinner on page to show user that search button is hit and just wait for the returning result.\I would also add table pagination.
+      I would add loading spinner on page to show user that search button is hit and just wait for the returning result.</br> I would also add table pagination.
     * If you didn't spend much time on the coding test, then use this as an opportunity to explain what you would add.
       I would add some needed unit testing with Jest and Enzyme, and also add some end to end testing with Cypress
 2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.\
