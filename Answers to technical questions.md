@@ -6,7 +6,7 @@
     * If you didn't spend much time on the coding test, then use this as an opportunity to explain what you would add.
       I would add some needed unit testing with Jest and Enzyme, and also add some end to end testing with Cypress
 2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.</br>
-    The latest version of Javascript is ECMAScript 2020(11th Edition). I use one of the most useful feature "Optional Chaining" in my coding of this assignment.\The code snippet
+    The latest version of Javascript is ECMAScript 2020(11th Edition). I use one of the most useful feature "Optional Chaining" in my coding of this assignment.The code snippet
     is as followed:
 ```javascript
     for (var i = 0; i < allBooksResp.docs.length; i++) {      
