@@ -1,0 +1,149 @@
+html, body {
+  margin: 0;
+  font-family: Agenda-Light;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.header {
+  background-color:#000000;
+  color:#FFFFFF;
+  padding: 1rem;
+}
+
+.header .wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.header-title {
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+#wrapper {
+  align-content: stretch;
+  display: flex;
+  padding: 1rem;
+}
+
+.header .wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.main {
+  flex: 1;
+}
+
+#search-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content:  center;
+  margin-top: 0.5rem;
+  font-size: 0.7em; 
+}
+
+#search-bar button {
+  background-color: #337ab7;
+  border: 1px solid #2e6da4;
+  color: #ffffff;
+  font-size: 0.7em;
+}
+
+#search-bar button:disabled {
+  background-color:rgb(243, 210, 148);
+  border: 1px solid wheat;
+  color: #ffffff;
+  font-size: 0.7em;
+}
+
+input[type=search] {
+  width: 20%;
+  margin-left: 0.5em; 
+  margin-right: 0.5em;
+  padding-top:0.1em;
+  box-sizing:border-box;
+  font-size: 0.7em;  
+}
+
+
+.footer {
+  border-top: 1px solid #000000;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.7em;
+}
+
+.wrapper {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.responsive-table caption {
+	font-size: 1.2rem;
+  font-family: Agenda-Light;
+  font-weight: 200;
+	color:#000;
+	margin: 0.2rem;
+  background-color: #ffffff;
+}
+
+.responsive-table {
+	border-collapse: collapse;
+	font-family: Agenda-Light;
+	font-weight: 100;
+	background: #333;
+	color: #fff;
+	text-rendering: optimizeLegibility;
+	border-radius: 0.1em;
+}
+
+.responsive-table thead th { 
+	font-weight: 100; 
+  font-size: 0.8rem;
+  cursor:'pointer'
+}
+.responsive-table thead th, 
+.responsive-table tbody td {
+	padding: .3rem;
+}
+.responsive-table tbody td {
+	padding: .3rem;
+	font-size: 0.7rem;
+	color: #444;
+	background: rgb(248, 247, 247);
+}
+.responsive-table tbody tr:not(:last-child) {
+	border-top: 0.1em solid #ddd;
+	border-bottom: 0.1em solid #ddd; 
+} 
+
+ @media only screen and (max-width: 600px) {
+	.responsive-table caption {
+    font-size: 0.5rem;
+    font-family: Agenda-Light;
+    font-weight: 100;
+    color:#000;
+    margin: 0.1rem;
+	}
+	.responsive-table thead {
+		display: none; 
+	}
+	.responsive-table tbody td {
+		display: block;
+		padding: .2rem; 
+	}
+	.responsive-table tbody tr td:first-child {
+		background:  #eee;;
+		color: #444; 
+	}
+	.responsive-table tbody td:before {
+		content: attr(data-label);
+		font-weight: bold;
+		display: inline-block;
+		width: 6rem; 
+	}
+} 
+ 
